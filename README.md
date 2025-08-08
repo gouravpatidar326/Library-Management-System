@@ -30,5 +30,5 @@ How To Run:
 Compile the source code:
 javac *.java
 
-Run the program
-java LibraryManagementSystem:
+Run the program:
+java LibraryManagementSystem
